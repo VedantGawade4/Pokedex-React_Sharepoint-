@@ -1,0 +1,1 @@
+{"version":3,"file":"PokeEntry.d.ts","sourceRoot":"","sources":["../../../../src/webparts/webpart1/models/PokeEntry.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,UAAU,EAAC,MAAM,0BAA0B,CAAC;AAWpD,qBAAa,gBAAgB;WAEX,eAAe,CAAC,KAAK,EAAE,UAAU,GAAI,UAAU;WAW/C,sBAAsB,IAAK,UAAU;CAUtD"}

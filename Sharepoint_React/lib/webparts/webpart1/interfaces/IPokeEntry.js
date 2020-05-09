@@ -1,0 +1,1 @@
+//# sourceMappingURL=IPokeEntry.js.map

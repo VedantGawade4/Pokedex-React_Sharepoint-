@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Pokedex - Vedant",
+    "id": "96197bd4-b94c-47a0-ada9-c7922c8f1eae",
+    "version": "1.0.0.4",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "Pokedex.sppkg"
+  }
+}
